@@ -1,0 +1,78 @@
+*{
+    background: rgb(73, 72, 68);
+    margin: 0;
+
+}
+.logo{
+    height: 50px;
+    width: 90px;
+}
+#nav {
+    
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+.btn {
+    height: 60px;
+    width: 150px;
+    border: 2px #F79A1F solid;
+    border-radius: 20%;
+    color: #f79a1f;
+    font-size: 18px;
+}
+
+a {
+    color: #F79A1F;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+
+.main {
+    font-size: 20px;
+    margin: 200px auto;
+    height: 6S0vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 2
+    
+}
+
+ h1 {
+     font-size: 50px;
+     color: rgb(226, 225, 210);
+ }
+ p {
+    color: rgb(253, 212, 158);
+    padding:80px;
+     
+
+ }
+ .logo2 {
+    height: 120px;
+    width: 130px;
+    border-radius: 50%;
+ }
+ .linkedin {
+    height: 50px;
+    width: 60px;
+ }
+ .start {
+    height: 60px;
+    width: 150px;
+    border: 2px #F79A1F solid;
+    border-radius: 20%;
+    color: #f79a1f;
+    font-size: 18px;
+}
+ 
